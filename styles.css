@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+section{
+    margin: auto;
+    border-radius: 10px;
+    border: gray outset;
+    box-shadow: 8px 8px 8px black;
+    width: 400px;
+    height: 550px;
+    margin-top: 60px;
+    background-color: white;
+    padding-left: 30px;
+}
+.main-image{
+border-radius: 25px;
+padding-top: 20px ;
+width: 350px;
+
+
+}
+h3{
+    background-color: hsl(47, 88%, 63%);
+    width: 18%;
+    padding: 5px;
+    text-align: center;
+}
+.float{
+    float: right;
+    font-weight: bold;
+    color: black;
+}
+.container{
+    width: 40%;
+}
+p{
+color: hsl(0, 0%, 50%);
+}
