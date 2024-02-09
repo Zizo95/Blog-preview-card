@@ -36,3 +36,33 @@ h3{
 p{
 color: hsl(0, 0%, 50%);
 }
+
+@media only screen and (max-width){
+   body{
+    width: 100%;
+    padding-left: 90px;
+   } section{
+        width: 20px;
+        padding: 15px;
+    }
+    .main-image{
+        width: 150px;
+        }
+        h3{
+            background-color: hsl(47, 88%, 63%);
+            width: 18%;
+            padding: 5px;
+            text-align: center;
+        }
+        .float{
+            float: right;
+            font-weight: bold;
+            color: black;
+        }
+        .container{
+            width: 40%;
+        }
+        p{
+        color: hsl(0, 0%, 50%);
+    }
+}
