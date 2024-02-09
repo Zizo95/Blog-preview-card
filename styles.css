@@ -60,4 +60,16 @@ color: hsl(0, 0%, 50%);
             padding-top: 20px;
          }
 } 
+@media only screen and (max-width:400px){
+    section{
+        width: 80%;
+    }
+    .main-image{
+        width: 265px;
+        } 
+        .attribution{
+            padding-top: 20px;
+         }
+        
+}
 
